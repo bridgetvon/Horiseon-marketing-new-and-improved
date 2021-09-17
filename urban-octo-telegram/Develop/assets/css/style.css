@@ -64,6 +64,11 @@ p {
     margin-right: 25px;
 }
 
+.section {
+    display: flex;
+}
+
+
 .float-right {
     float: right;
     margin-left: 25px;
@@ -73,6 +78,12 @@ p {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+.container {
+    display: flex;
 }
 
 .strategy {
@@ -86,6 +97,10 @@ p {
     background-color: #2589bd;
     margin-bottom: 32px;
     color: #ffffff;
+}
+
+.strategy div {
+    padding: 20px 0;
 }
 
 
