@@ -1,5 +1,5 @@
 # urban-octo-telegram/homework-one
 
-##Create semantic HTML and add website accessibility 
+*Create semantic HTML and add website accessibility 
 
-##By Bridget Schaefer 
+*By Bridget Schaefer 
