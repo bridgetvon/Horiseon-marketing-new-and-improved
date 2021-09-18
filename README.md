@@ -13,3 +13,5 @@ https://github.com/bridgetvon/Horiseon-marketing-new-and-improved.git
 ## Contribution 
 By Bridget Schaefer 
 
+![app_image](horiseon-home-page.png)
+
